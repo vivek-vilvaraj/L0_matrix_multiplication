@@ -2,7 +2,7 @@
 // Sample based on the test-suite exanples from Level-Zero: 
 //      https://github.com/intel/compute-runtime/blob/master/level_zero/core/test/black_box_tests/zello_world_gpu.cpp
 
-#include "ze_api.h"
+#include "level_zero/ze_api.h"
 
 #include <chrono>
 #include <cstring>
